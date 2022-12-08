@@ -1,12 +1,7 @@
 ### Hi there 👋
 
 
-**mdshimul101/mdshimul101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...### Hi there 👋, My name is MD Shimul
+My name is MD Shimul
 #### I am a full stack developer.
 ![I am a full stack developer.](https://media-exp1.licdn.com/dms/image/D5616AQFdR6cW8Oj3CA/profile-displaybackgroundimage-shrink_350_1400/0/1670449738638?e=1675900800&v=beta&t=g191zmuQdBv3vXRUizEb99diEhIuclDC0YyhXh4BeAo)
 
