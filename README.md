@@ -9,7 +9,7 @@ I am a full stack developer. I always try to learn something new. I am looking f
 
 Skills: REACT / JS / HTML / CSS / Node Js / MongoDB / express js / firebase 
 
-- 🔭 I’m currently working on this page. 
+ 
 
 ### social :
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-shimul/)  
